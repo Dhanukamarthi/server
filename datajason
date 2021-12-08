@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Dhanush",
+        "age":21,
+        "gender":"male"
+    },
+      {
+        "name":"ravi",
+        "age":21,
+        "gender":"male"
+    },
+      {
+        "name":"hari",
+        "age":21,
+        "gender":"male"
+    },
+      {
+        "name":"raghu",
+        "age":21,
+        "gender":"male"
+    }
+]
